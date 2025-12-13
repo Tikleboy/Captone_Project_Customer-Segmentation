@@ -86,7 +86,6 @@ Menghasilkan visualisasi penting:
 ## 📝 Segmentasi
 Berikut adalah segmentasi dan karakteristik segmen yang digunakan:
 
-| ----------------- | ----------------------------------------------------------- |
 | Segmen            | Karakteristik                                               |
 | ----------------- | ----------------------------------------------------------- |
 | **Big Spenders**  | Recency rendah, Frequency tinggi, Monetary sangat tinggi.   |
