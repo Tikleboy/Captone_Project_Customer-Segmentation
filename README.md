@@ -48,7 +48,7 @@ Proyek ini dibangun menggunakan **Python** dengan library berikut:
     * Melatih model K-Means dengan nilai K terbaik.
 
 4.  **Profiling & Evaluasi:**
-    * Memberikan label segmen (misal: "Big Spenders", "Champions", "Loyalists", "Regular", "At-Risk") berdasarkan aturan bisnis.
+    * Memberikan label segmen ("Big Spenders", "Champions", "Loyalists", "Regular", "At-Risk") berdasarkan karakteristik segmen.
     * Evaluasi metrik cluster menggunakan **Davies-Bouldin Index** dan **Calinski-Harabasz Score**.
 
 ## 📈 Visualisasi Hasil
