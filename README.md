@@ -68,7 +68,7 @@ Menghasilkan visualisasi penting:
 
 1.  **Clone Repository:**
     ```bash
-    git clone https://github.com/Tikleboy/Captone_Project_Customerustomer-Segmentation.git
+    git clone https://github.com/Tikleboy/Captone_Project_Customer-Segmentation
     ```
 
 2.  **Install Dependencies:**
