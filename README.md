@@ -106,10 +106,10 @@ Sebagian besar pelanggan berada pada segmen **Regular** dan **At-Risk**, sementa
 
 ## 🚀 Cara Menjalankan Code
 
-1. Clone repository:
-```bash
-git clone https://github.com/Tikleboy/Captone_Project_Customer-Segmentation
- ```
+1. **Clone repository:**
+    ```bash
+    git clone https://github.com/Tikleboy/Captone_Project_Customer-Segmentation
+    ```
 2.  **Install Dependencies:**
     Pastikan memiliki library yang dibutuhkan. Menginstallnya via pip:
     ```bash
@@ -117,7 +117,7 @@ git clone https://github.com/Tikleboy/Captone_Project_Customer-Segmentation
     ```
 
 3.  **Siapkan Dataset:**
-    Pastikan file `online_retail.csv` berada di direktori yang sama dengan script python.
+    Pastikan file `online_retail.csv` berada di direktori yang sama dengan 'Notebook.ipynb'.
 
 4.  **Jalankan Script:**
     Jalankan file Notebook.
