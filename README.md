@@ -133,7 +133,6 @@ Berikut adalah segmentasi dan karakteristik setiap segmen:
 | **Loyalists**     | Cukup sering belanja dengan pengeluaran menengah.           |
 | **Regular**       | Belanja standar, jarang kembali dalam waktu dekat.          |
 | **At-Risk**       | Sudah lama tidak belanja, frekuensi dan pengeluaran rendah. |
-| ----------------- | ----------------------------------------------------------- |
 
 ## 👥 Author
 
