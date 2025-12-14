@@ -34,7 +34,7 @@ Dataset yang digunakan adalah `online_retail.csv`, yang berisi data transaksi da
 ### Dataset Overview
 - Jumlah data awal: **541,909 baris**
 - Jumlah data setelah proses cleaning: **397,924 baris**
-- Jumlah CustomerID unik final: **4,339 pelanggan**
+- Jumlah CustomerID unik akhir: **4,339 pelanggan**
 
 ## 🛠️ Tech Stack
 Proyek ini dibangun menggunakan **Python** dengan library berikut:
