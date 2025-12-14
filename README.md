@@ -122,6 +122,7 @@ git clone https://github.com/Tikleboy/Captone_Project_Customer-Segmentation
 4.  **Jalankan Script:**
     Jalankan file Notebook.
 
+
 ## 📝 Segmentasi
 Berikut adalah segmentasi dan karakteristik setiap segmen:
 
