@@ -109,7 +109,7 @@ Sebagian besar pelanggan berada pada segmen **Regular** dan **At-Risk**, sementa
 1. Clone repository:
 ```bash
 git clone https://github.com/Tikleboy/Captone_Project_Customer-Segmentation
-
+ ```
 2.  **Install Dependencies:**
     Pastikan memiliki library yang dibutuhkan. Menginstallnya via pip:
     ```bash
