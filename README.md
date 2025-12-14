@@ -5,12 +5,12 @@ Customer Segmentation for Personalized Retail Marketing
 ![Library](https://img.shields.io/badge/Library-Sklearn%20|%20Pandas%20|%20Plotly-green)
 
 ## 📋 Overview
-Proyek ini bertujuan untuk melakukan segmentasi pelanggan (*Customer Segmentation*) pada dataset **Online Retail** menggunakan analisis **RFM (Recency, Frequency, Monetary)** dan algoritma Machine Learning **K-Means Clustering**.
+Proyek ini bertujuan melakukan segmentasi pelanggan (Customer Segmentation) pada dataset **Online Retail** menggunakan analisis **RFM (Recency, Frequency, Monetary)** dan algoritma **K-Means Clustering**.
 
-Segmentasi pelanggan ini digunakan untuk mengelompokkan pelanggan berdasarkan perilaku pembelian mereka, sehingga dapat membantu perusahaan dalam merancang strategi pemasaran yang lebih personal, efektif, dan berbasis data.
+Pendekatan ini digunakan untuk menggantikan strategi promosi massal yang diberikan secara seragam kepada seluruh pelanggan menjadi **strategi pemasaran yang lebih personal dan tepat sasaran**, berdasarkan perilaku belanja aktual pelanggan.
 
 ## 🎯 Business Objective
-Tujuan utama dari proyek ini adalah membantu perusahaan memahami karakteristik pelanggan berdasarkan histori transaksi, sehingga:
+Tujuan utama dari proyek ini adalah membantu perusahaan ritel menghindari pendekatan promosi yang massal dengan membangun segmentasi pelanggan berbasis data transaksi, sehingga:
 - Strategi promosi dapat disesuaikan untuk setiap segmen pelanggan
 - Retensi pelanggan dapat ditingkatkan
 - Efektivitas kampanye pemasaran menjadi lebih optimal, personal dan efektif
@@ -102,7 +102,7 @@ Visualisasi yang dihasilkan dalam proyek ini meliputi:
 ![Segment Distribution](Visualisasi/image-4.png)
 
 ### Segment Distribution Insight
-Sebagian besar pelanggan berada pada segmen **Regular** dan **At-Risk**, sementara segmen **Big Spenders** dan **Champions** hanya mencakup sebagian kecil pelanggan. Pola ini umum terjadi pada bisnis ritel, di mana sebagian kecil pelanggan memberikan kontribusi nilai transaksi yang sangat besar (*Pareto Principle*).
+Sebagian besar pelanggan berada pada segmen **Regular** dan **At-Risk**, sementara segmen **Big Spenders** dan **Champions** hanya mencakup sebagian kecil pelanggan. Pola ini umum terjadi pada bisnis ritel, di mana sebagian kecil pelanggan memberikan kontribusi nilai transaksi yang sangat besar. 
 
 ## 🚀 Cara Menjalankan Code
 
